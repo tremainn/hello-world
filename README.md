@@ -1,2 +1,3 @@
 # hello-world
-first repository
+Hey, wassup!
+I'm a newbie in the programming, but I really want to be a professional :)
